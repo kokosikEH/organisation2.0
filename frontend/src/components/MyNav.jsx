@@ -9,7 +9,7 @@ function MyNav() {
     <div className='back z-30'>
       <div className="nav z-30">
         <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank" draggable="false" display="false">
-        <img src="/static/MISIShunters.svg"className='left' draggable="false" width="60%"/>
+        <img src="/assets/MISIShunters.svg"className='left' draggable="false" width="60%"/>
         </a>
         <br/>
         <w className='right mr-[200px] mt-[10px]'>
